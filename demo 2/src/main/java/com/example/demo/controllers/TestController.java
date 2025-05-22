@@ -17,5 +17,4 @@ public class TestController {
     public String getHello2() {
         return "Hello2";
     }
-
 }
